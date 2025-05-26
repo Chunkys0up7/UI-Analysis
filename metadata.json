@@ -1,0 +1,5 @@
+{
+  "name": "UI Refinement Assistant",
+  "description": "An application to help analyze and refine web application UIs. Users can upload screenshots and code snippets of their web pages, and the app uses Gemini API to provide feedback on UI/UX, code structure, and potential improvements.",
+  "requestFramePermissions": []
+}
